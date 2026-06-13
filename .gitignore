@@ -1,0 +1,25 @@
+# virtual environments
+venv/
+.venv/
+env/
+
+# python artifacts
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# large inputs - uncomment if your repo host rejects big files
+# 1-individual_vehicles/
+# 2-multiple_vehicles/
+# yolo_weight.pt
+TRAVERSAL SITE-CAV HACKATHON 2026.pptx
+SCVIC_HACKATHON_2026_DJAD_BENGUERRA.zip
+# bulky outputs - uncomment to keep the repo light (videos/CSVs stay)
+# results/*/task*_outputs/*/frames/
